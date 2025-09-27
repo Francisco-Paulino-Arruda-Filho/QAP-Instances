@@ -1,0 +1,2 @@
+instancia,seed,melhor_solucao,custo,tempo_execucao_segundos,memoria_usada_MB,n_formigas,alpha,beta,rho,Q,iter_max
+Chr25a,42,"[22, 7, 15, 1, 20, 14, 4, 3, 21, 17, 18, 23, 16, 11, 24, 9, 19, 10, 2, 5, 8, 6, 13, 12, 0]",4420,300.0,126.02,8,0.5375161328340003,1.5500586367382385,0.08348161072232342,1,144

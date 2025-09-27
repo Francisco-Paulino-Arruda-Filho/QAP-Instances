@@ -1,0 +1,2 @@
+instancia,seed,melhor_solucao,custo,tempo_execucao_segundos,memoria_usada_MB,n_formigas,alpha,beta,rho,Q,iter_max
+Kra32,42,"[14, 2, 8, 4, 5, 9, 22, 21, 30, 17, 11, 13, 26, 27, 0, 10, 6, 23, 29, 25, 20, 1, 24, 12, 15, 7, 19, 18, 28, 3, 31, 16]",91070,599.99,126.02,8,0.5375161328340003,1.5500586367382385,0.08348161072232342,1,144

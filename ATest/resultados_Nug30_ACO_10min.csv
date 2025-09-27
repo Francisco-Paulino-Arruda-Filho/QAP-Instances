@@ -1,0 +1,2 @@
+instancia,seed,melhor_solucao,custo,tempo_execucao_segundos,memoria_usada_MB,n_formigas,alpha,beta,rho,Q,iter_max
+Nug30,42,"[23, 11, 24, 12, 27, 4, 0, 5, 6, 15, 20, 1, 25, 21, 18, 9, 8, 28, 16, 17, 7, 26, 19, 2, 14, 22, 10, 29, 13, 3]",6194,600.0,126.02,8,0.5375161328340003,1.5500586367382385,0.08348161072232342,1,144
