@@ -1,0 +1,4 @@
+instancia,seed,mu,lambd,taxa_mutacao,taxa_busca_local,iter_sem_melhora_max,custo,tempo_execucao_segundos,memoria_usada_MB,melhor_solucao
+Nug15,42,5,33,0.466,0.552,5,1150,182.93,114.95,"[0, 1, 12, 7, 8, 3, 2, 13, 6, 10, 9, 14, 5, 4, 11]"
+Nug15,43,9,77,0.518,0.417,5,1150,281.57,114.95,"[9, 14, 5, 4, 11, 3, 2, 13, 6, 10, 0, 1, 12, 7, 8]"
+Nug15,44,5,50,0.608,0.514,8,1150,135.48,114.95,"[11, 4, 5, 14, 9, 10, 6, 13, 2, 3, 8, 7, 12, 1, 0]"
