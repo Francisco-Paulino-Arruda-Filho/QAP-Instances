@@ -1,0 +1,3 @@
+instancia,seed,mu,lambd,taxa_mutacao,taxa_busca_local,iter_sem_melhora_max,custo,tempo_execucao_segundos,memoria_usada_MB,melhor_solucao
+Chr20a,42,9,55,0.466,0.577,5,2430,579.67,119.98,"[0, 8, 12, 19, 10, 3, 18, 14, 2, 17, 1, 13, 15, 6, 16, 9, 5, 11, 4, 7]"
+Chr20a,43,8,52,0.655,0.646,8,7208,20.31,119.98,"[18, 16, 6, 17, 19, 14, 11, 4, 2, 5, 8, 12, 7, 3, 13, 10, 0, 15, 1, 9]"
