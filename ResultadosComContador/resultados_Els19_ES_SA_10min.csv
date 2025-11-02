@@ -1,0 +1,2 @@
+instancia,seed,mu,lambd,taxa_mutacao,taxa_busca_local,iter_sem_melhora_max,custo,tempo_execucao_segundos,memoria_usada_MB,melhor_solucao
+Els19,42,9,55,0.466,0.577,5,17212548,600.0,120.62,"[8, 9, 6, 17, 13, 18, 12, 16, 5, 10, 3, 4, 11, 7, 15, 14, 0, 1, 2]"
